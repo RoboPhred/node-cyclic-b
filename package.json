@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RoboPhred/node-cyclic-b/issues"
   },
-  "homepage": "https://github.com/RoboPhred/node-cyclic-b#readme"
+  "homepage": "https://github.com/RoboPhred/node-cyclic-b#readme",
+  "dependencies": {
+    "cyclic-a": "github:RoboPhred/node-cyclic-a#semver:1.0.0"
+  }
 }
