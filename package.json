@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/RoboPhred/node-cyclic-b#readme",
   "dependencies": {
-    "cyclic-a": "git+https://github.com/RoboPhred/node-cyclic-a#semver:>=1.0.0"
+    "@wrong-scope/cyclic-a": "git+https://github.com/RoboPhred/node-cyclic-a"
   }
 }
